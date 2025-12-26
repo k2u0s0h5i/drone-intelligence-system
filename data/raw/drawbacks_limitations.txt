@@ -1,0 +1,19 @@
+Despite their advantages, drones face technical limitations such as limited battery
+life, which restricts flight duration and operational range. This affects long-distance
+and continuous operations.
+
+Drone performance is highly dependent on weather conditions. Strong winds, rain,
+and poor visibility can impact flight stability and data accuracy, limiting their use
+in adverse conditions.
+
+Privacy concerns are a major challenge associated with drone operations. Aerial
+surveillance raises concerns about unauthorized data collection, requiring strict
+regulatory enforcement and ethical usage.
+
+Safety risks also exist, including mid-air collisions, technical failures, and misuse.
+Improper handling or lack of training can lead to accidents, especially in populated
+areas.
+
+High initial costs, maintenance expenses, and the need for trained personnel act
+as barriers to widespread adoption, particularly for small businesses and rural
+operators.

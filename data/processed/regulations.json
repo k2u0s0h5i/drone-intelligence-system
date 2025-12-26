@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Classification",
+    "nano_max_weight_g": 250,
+    "micro_max_weight_kg": 2,
+    "small_max_weight_kg": 25
+  },
+  {
+    "category": "Zones",
+    "green_zone_permission": "Not required",
+    "yellow_zone_permission": "ATC approval required",
+    "red_zone_permission": "Central government approval required"
+  },
+  {
+    "category": "Penalty",
+    "max_penalty_inr": 100000
+  }
+]

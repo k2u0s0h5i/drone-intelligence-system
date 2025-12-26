@@ -1,0 +1,93 @@
+[
+  {
+    "use_case": "Agriculture",
+    "description": "Drones are used for crop monitoring, pesticide spraying, fertilizer distribution, and yield estimation in Indian agriculture.",
+    "key_benefits": [
+      "Reduced chemical usage",
+      "Lower labor cost",
+      "Improved crop yield",
+      "Faster coverage of large fields"
+    ],
+    "example": "Garuda Aerospace deploys agricultural drones across multiple Indian states for precision spraying.",
+    "typical_applications": [
+      "Crop health monitoring",
+      "Pesticide spraying",
+      "Soil analysis"
+    ]
+  },
+  {
+    "use_case": "Logistics and Delivery",
+    "description": "Drones are used for last-mile delivery of medicines, vaccines, and essential goods in remote and hard-to-reach areas of India.",
+    "key_benefits": [
+      "Faster delivery",
+      "Access to remote regions",
+      "Reduced dependency on road infrastructure"
+    ],
+    "example": "Drones were used to deliver COVID-19 vaccines in states like Manipur and Nagaland.",
+    "typical_applications": [
+      "Medical supply delivery",
+      "Emergency logistics",
+      "E-commerce pilots"
+    ]
+  },
+  {
+    "use_case": "Infrastructure Inspection",
+    "description": "Drones assist in inspection of bridges, roads, power lines, pipelines, and construction sites by capturing high-resolution aerial data.",
+    "key_benefits": [
+      "Improved safety",
+      "Reduced inspection time",
+      "Lower operational cost"
+    ],
+    "example": "Government agencies use drones to inspect bridges and highways for structural damage.",
+    "typical_applications": [
+      "Bridge inspection",
+      "Power line monitoring",
+      "Construction progress tracking"
+    ]
+  },
+  {
+    "use_case": "Disaster Management",
+    "description": "Drones are used in disaster response for search and rescue, damage assessment, and real-time monitoring of affected areas.",
+    "key_benefits": [
+      "Rapid situational awareness",
+      "Improved rescue coordination",
+      "Access to inaccessible areas"
+    ],
+    "example": "Drones have been used during floods in India to locate stranded individuals and assess damage.",
+    "typical_applications": [
+      "Search and rescue",
+      "Damage assessment",
+      "Relief supply monitoring"
+    ]
+  },
+  {
+    "use_case": "Surveillance and Security",
+    "description": "Law enforcement and security agencies use drones for crowd monitoring, traffic management, and surveillance of sensitive areas.",
+    "key_benefits": [
+      "Real-time monitoring",
+      "Reduced manpower requirement",
+      "Improved public safety"
+    ],
+    "example": "Police departments in Indian cities deploy drones during public events and emergencies.",
+    "typical_applications": [
+      "Crowd surveillance",
+      "Border monitoring",
+      "Traffic management"
+    ]
+  },
+  {
+    "use_case": "Media and Cinematography",
+    "description": "Drones are used for aerial photography and cinematography in films, sports broadcasting, and media production.",
+    "key_benefits": [
+      "Creative camera angles",
+      "Lower production cost",
+      "Enhanced visual storytelling"
+    ],
+    "example": "DGCA-approved drones are used for aerial filming during major sports events.",
+    "typical_applications": [
+      "Film production",
+      "Sports broadcasting",
+      "Aerial photography"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+Use Case: Agriculture
+Drones are widely used in Indian agriculture for crop monitoring, pesticide spraying,
+fertilizer distribution, and soil health analysis. They help farmers identify crop stress,
+optimize resource usage, and reduce manual labor.
+Example:
+Indian companies such as Garuda Aerospace and government-supported initiatives
+use drones for precision spraying, reducing chemical usage and improving crop yield.
+
+This use case is important in India due to the large agricultural workforce and the
+growing need for efficient and sustainable farming practices.
+
+
+Use Case: Logistics and Delivery Services
+Drones are being explored in India for last-mile delivery of medicines, vaccines,
+and essential supplies, especially in remote and hard-to-reach areas. They help
+reduce delivery time and dependency on road infrastructure.
+
+
+Use Case: Infrastructure Inspection
+Drones are used for inspection of bridges, highways, power lines, pipelines,
+and construction sites. They provide high-resolution aerial data without requiring
+manual inspections in hazardous environments.
+
+
+Use Case: Disaster Management and Emergency Services
+Drones play a crucial role in disaster response by providing real-time aerial views
+of affected areas. They assist in search and rescue operations, damage assessment,
+and delivery of emergency supplies.
+Example:
+During floods and natural disasters in India, drones have been used to locate
+stranded individuals and assess damage in inaccessible regions.
+
+This use case helps authorities respond faster and improve coordination during
+emergencies.
+
+
+Use Case: Surveillance and Security
+Drones are used by law enforcement and security agencies in India for crowd
+monitoring, border surveillance, traffic management, and public safety operations.
+They provide real-time monitoring with minimal manpower.
+Example:
+Police departments in multiple Indian cities use drones for surveillance during
+public events and monitoring sensitive areas.
+
+
+Use Case: Media, Entertainment, and Cinematography
+Drones are widely used in the media and entertainment industry for aerial
+cinematography, sports broadcasting, and film production. They enable creative
+camera angles at lower costs compared to traditional methods.
