@@ -1,0 +1,4 @@
+use_case,farm_size_acres,traditional_cost_inr,drone_cost_inr,seasonal_savings_inr
+Agriculture Spraying,20,10000,3500,6500
+Agriculture Spraying,50,25000,9000,16000
+Agriculture Spraying,100,50000,18000,32000
