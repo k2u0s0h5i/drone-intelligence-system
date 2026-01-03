@@ -1,42 +1,43 @@
-print("INGESTION STARTED")
-
-import os, json, pickle
-import pandas as pd
+import os
+import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
-from vectorstore import VectorStore
+from rag.vectorstore import VectorStore
 
-DATA_DIRS = ["data/raw", "data/processed"]
+DATA_DIR = "data/raw"
 
-documents = []
+texts = []
 metadata = []
 
-for folder in DATA_DIRS:
-    for file in os.listdir(folder):
-        path = os.path.join(folder, file)
+for filename in os.listdir(DATA_DIR):
+    if not filename.endswith(".txt"):
+        continue
 
-        if file.endswith(".txt"):
-            text = open(path, encoding="utf-8").read()
-        elif file.endswith(".csv"):
-            text = pd.read_csv(path).to_string()
-        elif file.endswith(".json"):
-            text = json.dumps(json.load(open(path)))
-        else:
-            continue
+    path = os.path.join(DATA_DIR, filename)
 
-        documents.append(text)
-        metadata.append({
-            "source": file,
-            "text": text[:500]
-        })
+    with open(path, "r", encoding="utf-8") as f:
+        content = f.read()
 
-vectorizer = TfidfVectorizer(stop_words="english")
-vectors = vectorizer.fit_transform(documents).toarray()
+        # split by paragraphs
+        paragraphs = [p.strip() for p in content.split("\n\n") if len(p.strip()) > 50]
+
+        for para in paragraphs:
+            texts.append(para)
+            metadata.append({
+                "source": filename,
+                "text": para
+            })
+
+vectorizer = TfidfVectorizer(
+    stop_words="english",
+    ngram_range=(1, 2)
+)
+
+vectors = vectorizer.fit_transform(texts).toarray()
 
 store = VectorStore()
 store.add(vectors, metadata)
 store.save()
 
-with open("tfidf.pkl", "wb") as f:
-    pickle.dump(vectorizer, f)
+pickle.dump(vectorizer, open("tfidf.pkl", "wb"))
 
-print("INGESTION COMPLETE")
+print("INGESTION COMPLETE — paragraph-level indexing")

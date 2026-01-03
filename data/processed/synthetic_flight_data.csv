@@ -1,5 +1,0 @@
-flight_id,altitude_m,speed_kmph,battery_percent,flight_time_min
-F001,60,35,85,12
-F002,80,40,70,18
-F003,100,45,55,22
-F004,120,50,40,26

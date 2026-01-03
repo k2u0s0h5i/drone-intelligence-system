@@ -1,19 +1,11 @@
-Despite their advantages, drones face technical limitations such as limited battery
-life, which restricts flight duration and operational range. This affects long-distance
-and continuous operations.
+LIMITATIONS AND CHALLENGES OF DRONES
 
-Drone performance is highly dependent on weather conditions. Strong winds, rain,
-and poor visibility can impact flight stability and data accuracy, limiting their use
-in adverse conditions.
+Despite their numerous advantages, drones face several technical and operational limitations. One major challenge is limited battery life, which restricts flight duration and operational range. This limitation affects long-distance missions, continuous monitoring, and large-area coverage, requiring frequent battery changes or recharging.
 
-Privacy concerns are a major challenge associated with drone operations. Aerial
-surveillance raises concerns about unauthorized data collection, requiring strict
-regulatory enforcement and ethical usage.
+Drone performance is also highly dependent on weather conditions. Strong winds, rain, fog, and poor visibility can negatively impact flight stability, navigation accuracy, and data quality. As a result, drone operations are often restricted or suspended during adverse weather conditions.
 
-Safety risks also exist, including mid-air collisions, technical failures, and misuse.
-Improper handling or lack of training can lead to accidents, especially in populated
-areas.
+Privacy concerns represent another significant challenge in drone usage. Aerial surveillance and data collection raise concerns about unauthorized monitoring, data misuse, and infringement of individual privacy. These concerns require strict regulatory enforcement, ethical usage practices, and compliance with data protection laws.
 
-High initial costs, maintenance expenses, and the need for trained personnel act
-as barriers to widespread adoption, particularly for small businesses and rural
-operators.
+Safety risks are associated with drone operations, including mid-air collisions, technical malfunctions, signal loss, and misuse. Improper handling, lack of pilot training, or system failures can lead to accidents, particularly in densely populated or sensitive areas.
+
+High initial costs, ongoing maintenance expenses, and the need for trained and certified personnel act as barriers to widespread adoption. These factors can limit drone usage among small businesses, startups, and rural operators, despite the long-term benefits offered by drone technology.
