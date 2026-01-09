@@ -76,7 +76,7 @@ The following files are **generated automatically** and should **not be committe
 
 ### Generate them using:
 ```bash
-py -3.12 rag/ingest.py
+py -3.12 -m rag.ingest
 ```
 
 ### Start the Backend (FastAPI):
