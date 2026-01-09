@@ -68,7 +68,7 @@ The system provides drone-related information, ROI analysis, flight time estimat
 
 ---
 
-## ⚙️ Generating Vector Files (IMPORTANT)
+## ⚙️ Generating Vector Files
 
 The following files are **generated automatically** and should **not be committed**:
 - `tfidf.pkl`
